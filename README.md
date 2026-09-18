@@ -108,12 +108,11 @@ python repro/check_silent_zero.py your_results.json
 
 | path | what |
 |---|---|
-| `evidence/endpoint-ab.md` | the endpoint comparison, with the wire-tapped request fields and usage |
-| `evidence/census.md` | 10-cell firing census across two harnesses, plus the negative controls |
-| `evidence/minimax.md` | the second-vendor probe, raw readings |
+| `one-pager.zh.md` | **the whole finding on one page** (Chinese): four readings, what was done, the public evidence, a 30-second spoken version |
+| `evidence/evidence.md` | raw readings: the endpoint comparison with wire-tapped request fields and usage counters, the 10-cell firing census **with negative controls**, the second-vendor probe, and the two harness-specific reproductions |
 | `repro/check_silent_zero.py` | apply the three-condition definition to a results file (no dependencies) |
-| `repro/check_harness_specifics.py` | lm-eval filter chain + OpenCompass post-processor, locally |
-| `issues.md` | the four upstream reports, verbatim |
+| `repro/check_harness_specifics.py` | lm-eval filter chain + OpenCompass post-processor, locally, no API calls |
+| `issues.md` | the four upstream reports + the shared framing paragraph |
 | `case-study.zh.md` | the full write-up in Chinese (method, layer attribution, human-audit, limitations) |
 
 ## Limitations (please don't cite these numbers as prevalence)
@@ -128,4 +127,6 @@ python repro/check_silent_zero.py your_results.json
 ## 中文一句话
 
 这份仓库是「**静默归零**」失败类的可复现证据：**模型先思考 ⇒ 输出额度被推理吃光 ⇒ 正文为空或只剩思考 ⇒ 框架报成功、给 0 分、一声不响**。
-中文全文（方法、三层归因、人评校准、边界）见 [`case-study.zh.md`](case-study.zh.md)。
+- 想快速看懂 → [`one-pager.zh.md`](one-pager.zh.md)（**一页纸**：四个读数 + 30 秒口述版）
+- 想读全文（方法、三层归因、人评校准、边界）→ [`case-study.zh.md`](case-study.zh.md)
+- 想自己跑 → `repro/`（判定器无依赖；框架复现不花 API 调用）
