@@ -236,6 +236,11 @@ GPT_5_MIN_TOKENS: int = 16
 
 ## 9. 已交付的对外产出
 
+**可复现材料（公开）**：**https://github.com/laa1991/silent-zero** —— README（含**一行复现**：同任务同提示同额度、只换端点 ⇒ `0.0000 ↔ 0.9333`）·
+`evidence/evidence.md`（wire tap 逐字请求体、**含负向对照**的点火普查、第二供应商四格）·
+`repro/check_silent_zero.py`（**无依赖的三条件判定器**）· `repro/check_harness_specifics.py`（**不花 API** 的框架复现）·
+本文件的中文全文。四条上游报告各有一条跟进评论指向它。
+
 **四条上游缺陷报告**（每条都带**自包含最小复现**，均已在线核对）：
 
 | 仓库 | Issue | 它说什么 |
