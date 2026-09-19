@@ -1,0 +1,600 @@
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "B. 4"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. 24"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "D", "raw": "D. 0,4"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "B. \\(6x^2 + 4x + 6\\)"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "D", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "B. 4"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. 2,3"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. both symmetric and anti-symmetric"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "A. 1"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. \\((x + 1)(x - 4)(x - 2)\\)"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. 30"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. i"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. (1,6)"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "D", "raw": "D. zero has no inverse"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "A. \\(2x^2 + 5\\)"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "D", "raw": "D. False, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "D", "raw": "D. abelian group"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "Answer: **C. infinite, non abelian group**"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "B", "raw": "B. Yes, with p=3."}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "D", "raw": "D. False, True"}
+{"model": "deepseek-flash", "subject": "abstract_algebra", "gold": "A", "raw": "Answer: A. True, True"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. r = k"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "C", "raw": "C. most organic functional groups absorb in a characteristic region of the IR spectrum"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. 5"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "B", "raw": "Answer: **B. The MnO4⁻ : I⁻ ratio is 6:5.**"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "B", "raw": "B. only for constant pressure processes"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "B", "raw": "C. 5 lines"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "A", "raw": "A. Neutrons"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. Unpaired electrons"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "C", "raw": "C. 1:6"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "B. T2, unlike T1, is sensitive to very low-frequency molecular motions."}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "A. 3.02 ppm"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "B", "raw": "**Answer: C. 56.6 s**"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "A", "raw": "Answer: **A. 4.6 mT**"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "The t-Bu radical has coupling to **9 equivalent protons**, so the EPR line intensities follow the binomial expansion for \\(n=9\\):"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "C. steady state concentration of free radical intermediates is often too low to enable direct detection by EPR"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "C", "raw": "The \\(^{13}\\text{C}\\) nucleus has spin \\(I = \\frac{1}{2}\\) and nuclear \\(g\\)-factor \\(g_I \\approx 1.4048\\)."}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. I and III only"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands."}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "C", "raw": "A. Protons and neutrons have orbital and spin angular momentum."}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "B", "raw": "B. 42.58 MHz"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. Arsenic-doped silicon"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. Both \\(^{35}\\mathrm{Cl}\\) and \\(^{37}\\mathrm{Cl}\\) have electric quadrupole moments."}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. \\(4.0 \\times 10^{-9}\\)"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "B", "raw": "**B. 2-methylpentane**"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. Oxide"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "A", "raw": "A. \\(^{17}\\mathrm{O}\\)"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. I, II, and III"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "At pH = pKa, \\([H_2PO_4^-] = [HPO_4^{2-}]\\)."}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "D", "raw": "D. I, II, and III"}
+{"model": "deepseek-flash", "subject": "college_chemistry", "gold": "C", "raw": "C. 0.067 M"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "B. k = 1 and n = 0"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. 3"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. n = 2 and r = 6"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "The shortest distance from \\((x,y)\\) to the origin is \\(\\sqrt{x^2+y^2}\\)."}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "C", "raw": "C. \\( \\frac{2}{23} \\)"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. \\((S, +, x)\\) has no identity under multiplication modulo 10."}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "C", "raw": "C. \\(4\\sqrt{2}\\)"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "C", "raw": "C. 25%"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "C", "raw": "C. II only"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "A. Every compact space is complete"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. 45"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "The probability that at least one is greater than 3 is"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "A. 0"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "**B. 7**"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. 0.95"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. I and II only"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "**B. II only**"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "C", "raw": "C. \\(0\\)"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "B. III only"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "A. 3"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "D. I, II, and III"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "The number of trailing zeros in \\(k!\\) is the exponent of 5 in \\(k!\\):"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "B. II only"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "The probability of rolling an odd number is \\( \\frac{1}{9} \\), so \\(P(5)=\\frac{1}{9}\\)."}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "B. True, False"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "The operation is  "}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "D", "raw": "Let Kate’s rate be \\( \\frac{1}{k} \\) tests/day and John’s rate be \\( \\frac{1}{j} \\) tests/day."}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "A. \\( \\frac{1}{2} \\)"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "A", "raw": "**A. f has all of its relative extrema on the line x = y.**"}
+{"model": "deepseek-flash", "subject": "college_mathematics", "gold": "B", "raw": "B. 6"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "Answer: **B. an average of 10 times, with an rms deviation of about 3**"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "C", "raw": "The oil film acts as a thin film between air and water."}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "C", "raw": "Answer: C. The entropy of the system and its environment remains unchanged."}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "A. a dye laser"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. The Pauli exclusion principle"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "C", "raw": "C. \\(3/2\\)"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "The two capacitors in series have equivalent capacitance  "}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "A. \\(0.25mc^2\\)"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "A. Planck’s constant"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. \\((\\sqrt{3})mc\\)"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. tetrahedron"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "Answer: D. 0.242 m"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. Hall coefficient"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. four hydrogen atoms and one helium atom"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "A. Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample."}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. Fermions have antisymmetric wave functions and obey the Pauli exclusion principle."}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. The Pauli exclusion principle"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "**A. 0.24 mJ**"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. 2.5 ns"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "The work done equals the relativistic kinetic energy:"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "C", "raw": "C. Electrons filling inner shell vacancies that are created in the metal atoms"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. 10"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. 0.5 mm"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "C", "raw": "C. \\(2 \\times 10^{-5}\\ \\text{N}\\)"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. Hall coefficient"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. B (Boron is a group 13 acceptor, so it makes germanium p-type, not n-type.)"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "A", "raw": "**A. Mass of the moon**"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "B. \\(0.60c\\)"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "B", "raw": "Answer: **B. deflected in the -x-direction**"}
+{"model": "deepseek-flash", "subject": "college_physics", "gold": "D", "raw": "D. 10 V"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "A", "raw": "A. directional selection."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "A", "raw": "A. a deletion of a single nucleotide"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. produce ATP"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "A", "raw": "A. oxygen"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. The wings of an insect and the wings of a bird"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. longitudinal section of a shoot tip"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. Phagocytes"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. Convergent evolution"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "A", "raw": "A. The fires remove dead and decaying plant matter, reducing the risk of more intense and destructive fires."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. Selection for larger female algae-eaters, bearing broods composed of more, and larger, young"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. Memory cells"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "Answer: B. Phenotype is often the result of compromise."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "D", "raw": "D. Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "D", "raw": "D. Phosphorus"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "D", "raw": "D. The pathogens that cause the diseases are primarily transmitted by the bite of an infected mosquito."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. ability of populations to undergo modification as they adapt to a particular environment."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "A"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. muscle"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. ATP and NADPH provide the power and raw materials for the Calvin cycle."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. Organelles separate specific reactions in the cell and increase metabolic efficiency."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "D", "raw": "D. It increases the number of lymphocytes with receptors that can recognize and bind to the antigen."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. mutualism"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "A", "raw": "A. They have a relative evolutionary fitness of zero."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. maintaining homeostasis."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. insulin decreases storage of glycogen"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. It is an inactivated X chromosome and results in females with half their cells having one X inactivated and the other half of their cells having the other X inactivated."}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "B", "raw": "B. obtains its energy by oxidizing organic molecules"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. NAD+ + H+ + 2e- → NADH"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "D. Polyploidy"}
+{"model": "deepseek-flash", "subject": "high_school_biology", "gold": "C", "raw": "C. It is a restriction enzyme extracted from E. coli."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "B", "raw": "Answer: **B. 2P(t > 1.54) with df = 6**"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "C", "raw": "C. 25.3 to 44.7 minutes"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "**D. Approximately 95% of the outcomes will be within two standard deviations of the mean.**"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. The power of a test concerns its ability to detect an alternative hypothesis."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. is significantly different from the other observations in the data set"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "**D.** There is a 95% probability that the mean income per family in the school is between $35,095 and $45,005."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. The probability of a Type I error would stay the same and the power would increase."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "Answer: D. The woman, because her height is \\( \\frac{70-66}{3} = 1.33 \\) standard deviations above the mean for women, while the man’s height is \\( \\frac{74-70}{4} = 1 \\) standard deviation above the mean for men."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "C", "raw": "C. t-distributions always have mean 0 and standard deviation 1."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "Answer: **D. This study was an experiment in which the subjects were used as their own controls.**"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "A", "raw": "A. It describes a process that creates estimates that are too high on average or too low on average."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "C", "raw": "C. Halting the production process when the tissue strength is within specifications."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. \\(75 - 0.5244(14)\\)"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "C", "raw": "C. increases the interval size by 57%."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. The number of motorists not wearing seat belts in a random sample of five drivers."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. I and II"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "B", "raw": "B. I and III only"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. E and F are both independent and mutually exclusive."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. 0.0036"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "C. The number of drivers wearing seat belts if 10 consecutive drivers are stopped at a police roadblock."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. –0.21"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "D. When using the sample standard deviation to estimate the population standard deviation, more variability is introduced into the sampling distribution of the statistic."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "C", "raw": "C. Using stratified random sampling rather than simple random sampling"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "B", "raw": "B. 0  "}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "A", "raw": "A. $23,000"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "Answer: D. $27,300"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "A", "raw": "A. A sample must be reasonably large to be properly considered a simple random sample."}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "A", "raw": "**Answer: A. Her procedure makes use of chance.**"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "**D. All of the above answers are correct.**"}
+{"model": "deepseek-flash", "subject": "high_school_statistics", "gold": "D", "raw": "**D. 1.350 < t < 1.771**"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "D", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "D", "raw": "D. 72"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "Answer: A. convolutional networks"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. O(D)"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. 8"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. Lower variance"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. underfitting"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. not pure"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. It is not possible to comment on the importance of this feature without additional information."}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. The number of hidden nodes"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. The polynomial degree"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. Minimizes the within class variance for a given number of clusters"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "Answer: C. True, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. 1"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. Density-based clustering"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "A", "raw": "C. True, False"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "B", "raw": "B. they have high variance"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "D. dependent on the number of iterations"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "D", "raw": "D. Decrease variance"}
+{"model": "deepseek-flash", "subject": "machine_learning", "gold": "C", "raw": "C. Forward stagewise selection"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "A", "raw": "A. jus in bello."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. is tantamount to asserting that you are infallible."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "A", "raw": "A. obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "Answer: C. both its quantity and its quality."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "Answer: B. the wider effects on human beings."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. somatic cell nuclear transfer"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "D. we harm the patient."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "B. proportional"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "D. contractualism"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "D. all of the above  "}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "B. the problem that the bad effects of current carbon dioxide emissions will fall largely on future generations."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "B. it can run counter to a person's being able to integrate her commitments at various levels."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "B. should be made with visibility and accountability by the highest-level officials."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "D. to promote human welfare."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "A. consequentialism"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. both of the above"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "A", "raw": "A. because dead people no longer exist, and thus cannot benefit from choosing to die."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "A", "raw": "A. the right to life belongs to a human being at all times that he or she exists."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "A", "raw": "A. retributive theories of punishment."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "B. She says the claim is implausible."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. It will produce harmful biological mutations as clones produce further clones."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "B. his argument does not require that marital and political freedom of association be equally important."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "D. this policy is morally unproblematic."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. we should institute death by torture."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "C. equal consideration."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "B", "raw": "B. that traditional moral theories have difficulty explaining the rightness or wrongness of attitudes."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. both A and B"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "C. the severity and finality of the death penalty is appropriate to the seriousness and finality of murder."}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "C", "raw": "C. utilitarian and absolutist"}
+{"model": "deepseek-flash", "subject": "moral_disputes", "gold": "D", "raw": "D. This kind of right would require a contract or agreement, and the affluent haven't entered into a contract or agreement with the poor."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "**C. inadmissible, because the attorney-client privilege prevents such a breach of confidential communications.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "B", "raw": "**Answer: B.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "D", "raw": "**D. admissible as an admission.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "**Answer: C. The authenticating requirement was necessary to further a compelling state interest.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "B", "raw": "**B. He intended only to wound the friend.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "A. The defendant's statement was involuntary."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "B", "raw": "**B. valid, because employees of an executive agency can be required to perform such emergency functions.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "A. Cold pursuit"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "C. not prevail, because the carpenter was not engaged in the sale of the mirror."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "C. No, the court will recognize the murderer’s pre-slaying right to one-half of the property as a tenant in common."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "**Answer: A.** Kathy gets the condominium regardless of the prenuptial agreement, Tommy takes the pasture land, and Tommy and Julie split the residue."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "**A. Yes, because it is a reasonable regulation of the procedure to be followed in such cases and does not substantially diminish the underlying obligations of the buyer.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "**A. prevail, because goods put up at an auction “without reserve” may not be withdrawn.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "B", "raw": "Answer: **B. The court will require a greater foundation to establish the reliability of the records.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "D", "raw": "D. The rational basis test, because the regulation need only be related to a legitimate state interest to be valid."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "C. Involuntary manslaughter in that it was a killing committed while engaging in reckless activity but without the intent to kill."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "C. Yes, because when the state arrests someone without a warrant it must provide a prompt probable cause determination."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "**Answer: A. The man, because the easement was extinguished.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "Answer: C. No contract because the order confirmation was a counteroffer which was not accepted."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "A. Remand the entire case."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "**Answer: C.** Yes, because the city ordinance advances an important and legitimate public interest and is not directed at the suppression of communication."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "**C. The resident would not succeed, because the director approved the clearing of the timber in order to develop the area for recreational purposes.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "D", "raw": "Answer: **D. The charge of involuntary manslaughter is legally sufficient because the manager's omissions were reckless and unlawful under the circumstances.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "A", "raw": "C. Burglary."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "B", "raw": "Answer: **C. not relieve the father of liability, because of the main purpose exception.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "B", "raw": "B. the widow had not given the student requisite notice for terminating a periodic tenancy."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "D", "raw": "**Answer: D.**  "}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "**Answer: C. No, because the insurance adjuster's statements did not cause the pedestrian any monetary loss.**"}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "C. Yes, because it does not single out religious reasons for the denial of benefits and is a reasonable limitation on the award of such benefits."}
+{"model": "deepseek-flash", "subject": "professional_law", "gold": "C", "raw": "C. The litigant ran a red light causing a car crash just before the judgment was rendered, and was in the hospital for two months recovering."}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Idols"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "B", "raw": "B. Yin-Yang School"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. 596 CE"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Akitu"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Ikebana"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "B. Devotion and piety"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Shabad"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Muhammad's miraculous ascent to heaven"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Laws of Manu"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "C", "raw": "C. The Recitation"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "B", "raw": "B. Father of Goodness"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Soto Zen"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "B", "raw": "B. Langar"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "B", "raw": "B. Daoism"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "B", "raw": "B. Submission"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. No-self"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "C", "raw": "C. Birth narratives"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "C", "raw": "C. Mahayana"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Digambara"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. The Shema"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Brahminic orthodoxy"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "C", "raw": "C. The Battle of the Trench"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Remembering the Divine Name"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Confucianism"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Disciple"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. The sages of the Zhuangzi"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "A", "raw": "A. Anointed one"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Non-soul"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "C", "raw": "C. Seated meditation"}
+{"model": "deepseek-flash", "subject": "world_religions", "gold": "D", "raw": "D. Sexual union"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "The field is"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "p = (1, 2, 5, 4)(2, 3) is a single 5-cycle, so its order is 5."}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "D", "raw": "The zeros in \\(\\mathbb{Z}_5\\) are the values \\(x \\in \\{0,1,2,3,4\\}\\) satisfying"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "The product is:"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "D", "raw": "C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "B. 4"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "The zeros of \\(x^3 + 2x + 2\\) in \\(\\mathbb{Z}_7\\) are \\(2\\) and \\(3\\) because:"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "C. both symmetric and anti-symmetric"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "The order of the factor group is"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "The factorization is:"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "C. 30"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "Answer: B. False, False"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "C. i"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "C. (1,6)"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "D", "raw": "D. zero has no inverse"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "The sum is:"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "D", "raw": "Statement 1 is **False**: Not every set of two vectors in \\(\\mathbb{R}^2\\) is linearly independent; for example, \\(\\{(1,0),(2,0)\\}\\) is linearly dependent."}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "D", "raw": "D. abelian group"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "For \\(n \\ge 2\\), the set \\(G\\) is the general linear group \\(GL_n(\\mathbb{Q})\\). It is infinite and non-abelian."}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "B", "raw": "B. Yes, with p=3."}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "D", "raw": "D. False, True"}
+{"model": "deepseek-v4-pro", "subject": "abstract_algebra", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "D. r = k"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "C", "raw": "C. most organic functional groups absorb in a characteristic region of the IR spectrum"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "D. 5"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "B", "raw": "The balanced equation is:"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "B", "raw": "The equation \\(\\Delta H = \\Delta U + P\\Delta V\\) is valid only when pressure is constant."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "B", "raw": "C. 5 lines"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "A", "raw": "A. Neutrons"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "D. Unpaired electrons"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "C", "raw": "The 1H NMR signal intensity is proportional to the number of protons contributing to the signal."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "**B. T2, unlike T1, is sensitive to very low-frequency molecular motions.**"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "As written, the answer is **A. 3.02 ppm**."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "B", "raw": "For a 600 MHz spectrometer, the \\(^{13}\\mathrm{C}\\) resonance frequency is about \\(150.9\\ \\mathrm{MHz}\\). The thermal equilibrium polarization is"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "A", "raw": "For a flat cyclobutyl radical, the β-hydrogen hyperfine coupling is estimated using  "}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "The t-Bu radical, \\((CH_3)_3C^\\bullet\\), has 9 equivalent protons."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "C. steady state concentration of free radical intermediates is often too low to enable direct detection by EPR"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "C", "raw": "**Answer: A. \\(6.1445 \\times 10^{-27}\\ \\mathrm{J\\,T^{-1}}\\)**"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "The infrared-active normal modes of CO₂ are those that change the molecule’s dipole moment."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "**D. Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.**"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "C", "raw": "A. Protons and neutrons have orbital and spin angular momentum."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "B", "raw": "The Larmor frequency for a proton is given by:"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "D. Arsenic-doped silicon"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "The correct answer is **D. Both 35Cl and 37Cl have electric quadrupole moments.**"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "D. 4.0 × 10^−9"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "B", "raw": "B. 2-methylpentane"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "D. Oxide"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "A", "raw": "A. 17O"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "The correct answer is **D. I, II, and III**."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "The observed chemical shift is the mole-fraction-weighted average because the two phosphate species are in fast exchange."}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "D", "raw": "**D. I, II, and III**"}
+{"model": "deepseek-v4-pro", "subject": "college_chemistry", "gold": "C", "raw": "C. 0.067 M"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "B. k = 1 and n = 0"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "D. 3"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "D. n = 2 and r = 6"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "The shortest distance from the curve \\(xy=8\\) to the origin is:"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "C", "raw": "C. 2/23"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "The FALSE statement is **D**."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "C", "raw": "The top end slides downward at \\(4\\sqrt{2}\\) m/s."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "C", "raw": "The three segments can form a triangle if and only if no segment has length \\(\\ge 5\\), since the total length is \\(10\\)."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "C", "raw": "C. II only"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "A. Every compact space is complete."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "D. 45"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "The probability that \\(X \\le 3\\) is"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "**Answer: A. 0**"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "**Answer: B. 7**"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "The total number of ordered choices is \\(10 \\times 10 = 100\\)."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "D. I and II only"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "The correct answer is **B. II only**."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "C", "raw": "The force is a constant unit vector parallel to \\((-1,0,1)\\), so"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "The correct answer is **B. III only**."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "A. 3"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "D. I, II, and III"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "The number of trailing zeros in \\(k!\\) is determined by the number of factors of 5:"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "**Answer: B. II only**"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "Let the probability of rolling any odd number be \\(x\\). Then the probability of rolling any even number is \\(2x\\)."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "Answer: B. True, False"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "The operation is"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "D", "raw": "Let Kate’s rate be \\( \\frac{1}{k} \\) and John’s rate be \\( \\frac{1}{j} \\)."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "The area of the triangle with vertex at the center \\(O\\) and two points \\(A,B\\) on the circle is"}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "A", "raw": "A. f has all of its relative extrema on the line \\(x = y\\)."}
+{"model": "deepseek-v4-pro", "subject": "college_mathematics", "gold": "B", "raw": "The largest order of an element in \\(S_5\\) is **6**, achieved by a permutation with cycle type \\(3+2\\), whose order is \\(\\operatorname{lcm}(3,2)=6\\)."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "The number of detected photons follows a binomial distribution with:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "C", "raw": "For normal incidence, the optical path difference for the reflected waves is  "}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "C", "raw": "C. The entropy of the system and its environment remains unchanged."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "A. a dye laser"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "B. The Pauli exclusion principle"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "C", "raw": "The ground state electron configuration of nitrogen (\\(Z=7\\)) is:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "The first capacitor has initial charge:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "The work done equals the relativistic kinetic energy:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "A. Planck’s constant"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "The total energy is \\(E = 2mc^2\\)."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "D. tetrahedron"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "The coin will not slide as long as the required centripetal force is less than or equal to the maximum static friction:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "D. Hall coefficient"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "The primary process is the proton-proton chain, whose net reaction fuses **four hydrogen nuclei into one helium nucleus**."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "A. Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "D. Fermions have antisymmetric wave functions and obey the Pauli exclusion principle."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "The correct answer is **B. The Pauli exclusion principle**."}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "The total mechanical energy of a frictionless mass-spring system is constant and can be found at the equilibrium position, where all energy is kinetic:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "The meter stick’s length in the observer’s frame is contracted:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "The work done equals the relativistic kinetic energy:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "C", "raw": "C. Electrons filling inner shell vacancies that are created in the metal atoms"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "D. 10"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "The bright fringe separation in a double-slit experiment is proportional to wavelength:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "C", "raw": "The radiation pressure on a perfectly reflecting surface at normal incidence is:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "B. Hall coefficient"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "D. B"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "A", "raw": "**A. Mass of the moon**"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "B. 0.60c"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "B", "raw": "The proton is unaffected when the electric and magnetic forces cancel:"}
+{"model": "deepseek-v4-pro", "subject": "college_physics", "gold": "D", "raw": "The average induced EMF is given by Faraday’s law:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "A", "raw": "A. directional selection."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "A", "raw": "A. a deletion of a single nucleotide"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. produce ATP"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "A", "raw": "A. oxygen"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. The wings of an insect and the wings of a bird"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. longitudinal section of a shoot tip"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. Phagocytes"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. Convergent evolution"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "A", "raw": "A. The fires remove dead and decaying plant matter, reducing the risk of more intense and destructive fires."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. Selection for larger female algae-eaters, bearing broods composed of more, and larger, young"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. Memory cells"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. Phenotype is often the result of compromise."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "D", "raw": "The correct statement is:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "D", "raw": "D. Phosphorus"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "D", "raw": "D. The pathogens that cause the diseases are primarily transmitted by the bite of an infected mosquito."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "The correct answer is **B. ability of populations to undergo modification as they adapt to a particular environment.**"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "Strictly, **none of the listed options is correct as written**."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. muscle"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. ATP and NADPH provide the power and raw materials for the Calvin cycle."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. Organelles separate specific reactions in the cell and increase metabolic efficiency."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "D", "raw": "D. It increases the number of lymphocytes with receptors that can recognize and bind to the antigen."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. mutualism"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "A", "raw": "A. They have a relative evolutionary fitness of zero."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. maintaining homeostasis."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. insulin decreases storage of glycogen"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. It is an inactivated X chromosome and results in females with half their cells having one X inactivated and the other half of their cells having the other X inactivated."}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "B", "raw": "B. obtains its energy by oxidizing organic molecules"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. NAD+ + H+ + 2e- → NADH"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "D. Polyploidy"}
+{"model": "deepseek-v4-pro", "subject": "high_school_biology", "gold": "C", "raw": "C. It is a restriction enzyme extracted from E. coli."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "B", "raw": "The test is two-sided because the FDA is checking whether the mean weight differs from the label claim of 300 mg."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "C", "raw": "100,000 riders out of 150,000 is:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. Approximately 95% of the outcomes will be within two standard deviations of the mean."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. The power of a test concerns its ability to detect an alternative hypothesis."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. is significantly different from the other observations in the data set"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. There is a 95% probability that the mean income per family in the school is between $35,095 and $45,005."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. The probability of a Type I error would stay the same and the power would increase."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. The woman, because her height is 1.33 standard deviations above the mean height of all women, whereas the man’s height is only one standard deviation above the mean height of all men."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "C", "raw": "C. t-distributions always have mean 0 and standard deviation 1."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "Correct answer: **D. This study was an experiment in which the subjects were used as their own controls.**"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "A", "raw": "A. It describes a process that creates estimates that are too high on average or too low on average."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "C", "raw": "C. Halting the production process when the tissue strength is within specifications."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "The correct answer is **D. 75 - 0.5244(14)**."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "C", "raw": "C. increases the interval size by 57%."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "**Answer: D. The number of motorists not wearing seat belts in a random sample of five drivers.**"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. I and II"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "B", "raw": "The true statements are **I and III only**."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "**D. E and F are both independent and mutually exclusive.**"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "The probability of an accident is:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "The binomial distribution is appropriate for **C. The number of drivers wearing seat belts if 10 consecutive drivers are stopped at a police roadblock.**"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "The predicted value for \\(x=5\\) is:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "D. When using the sample standard deviation to estimate the population standard deviation, more variability is introduced into the sampling distribution of the statistic."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "C", "raw": "The answer is **C. Using stratified random sampling rather than simple random sampling**."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "B", "raw": "B. 0 (intended answer)"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "A", "raw": "A. $23,000"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "The overall mean is a weighted average:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "A", "raw": "A. A sample must be reasonably large to be properly considered a simple random sample."}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "A", "raw": "**Answer: A. Her procedure makes use of chance.**"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "All three statements are correct:"}
+{"model": "deepseek-v4-pro", "subject": "high_school_statistics", "gold": "D", "raw": "**D. 1.350 < t < 1.771**"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "D", "raw": "D. False, True"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "Answer: C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "D", "raw": "D. 72"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. convolutional networks"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. O(D)"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "The Bayesian network has edges:"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. Lower variance"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "Answer: **A. True, True**"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "C. underfitting"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. not pure"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. False, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "C. It is not possible to comment on the importance of this feature without additional information."}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. The number of hidden nodes"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. The polynomial degree"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "C. Minimizes the within class variance for a given number of clusters"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. 1"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "C. True, False"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "B. Density-based clustering"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "A", "raw": "A. True, True"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "B", "raw": "A. they are biased"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "Total gradient descent complexity is **O(N D T)**, where \\(T\\) is the number of iterations."}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "D", "raw": "D. Decrease variance"}
+{"model": "deepseek-v4-pro", "subject": "machine_learning", "gold": "C", "raw": "C. Forward stage wise selection"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "A", "raw": "A. jus in bello."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. is tantamount to asserting that you are infallible."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "A", "raw": "A. obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. both its quantity and its quality."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "B. the wider effects on human beings."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. somatic cell nuclear transfer"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. we harm the patient."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "B. proportional"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. contractualism"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. all of the above — though note that Gardiner’s characteristic is **institutional inadequacy**, not “institutional adequacy.” His analysis highlights dispersion of causes and effects, fragmentation of agency, and institutional inadequacy."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. the problem that countries are possibly biased toward the interests of the current generation, which largely benefits from carbon dioxide emissions."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "B. it can run counter to a person's being able to integrate her commitments at various levels."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "B. should be made with visibility and accountability by the highest-level officials."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. to promote human welfare."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "A. consequentialism"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. both of the above"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "A", "raw": "A. because dead people no longer exist, and thus cannot benefit from choosing to die."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "A", "raw": "A. the right to life belongs to a human being at all times that he or she exists."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "A", "raw": "A. retributive theories of punishment."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "A. She says the claim is very plausible."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. It will produce harmful biological mutations as clones produce further clones."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "B. his argument does not require that marital and political freedom of association be equally important."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. this policy is morally unproblematic."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. we should institute death by torture."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "C. equal consideration."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "B", "raw": "B. that traditional moral theories have difficulty explaining the rightness or wrongness of attitudes."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. both A and B"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "A. he is still confident that the threat of the death penalty at least sometimes prevents murder."}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "C", "raw": "C. utilitarian and absolutist"}
+{"model": "deepseek-v4-pro", "subject": "moral_disputes", "gold": "D", "raw": "D. This kind of right would require a contract or agreement, and the affluent haven't entered into a contract or agreement with the poor."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. inadmissible, because the attorney-client privilege prevents such a breach of confidential communications."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "B", "raw": "B. not guilty, if the arrest was lawful, provided that the jury believes the suspect's account."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "D", "raw": "D. admissible as an admission."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. The authenticating requirement was necessary to further a compelling state interest."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "B", "raw": "**B. He intended only to wound the friend.**"}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. The defendant's statement was involuntary."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "B", "raw": "B. valid, because employees of an executive agency can be required to perform such emergency functions."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. Cold pursuit"}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. not prevail, because the carpenter was not engaged in the sale of the mirror."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. No, the court will as a policy matter recognize the murderer's pre-slaying right to one-half of the property as a tenant in common."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "**A. Kathy gets the condominium regardless of the prenuptial agreement, Tommy takes the pasture land and Tommy and Julie split the rest of the estate.**"}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. Yes, because it is a reasonable regulation of the procedure to be followed in such cases and does not substantially diminish the underlying obligations of the buyer."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. prevail, because goods put up at an auction \"without reserve\" may not be withdrawn."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "B", "raw": "B. The court will require a greater foundation to establish the reliability of the records."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "D", "raw": "D. The rational basis test, because the regulation need only be related to a legitimate state interest to be valid."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. Involuntary manslaughter in that it was a killing committed while engaging in reckless activity but without the intent to kill."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. Yes, because when the state arrests someone without a warrant it must provide a prompt probable cause determination."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. The man, because the easement was extinguished."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "The court would likely rule **C. No contract because the order confirmation was a counteroffer which was not accepted.**"}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. Remand the entire case."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. Yes, because the city ordinance advances an important and legitimate public interest and is not directed at the suppression of communication."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "A. The resident would succeed, because the logging company's selling of the timber would entitle the resident to re-enter and terminate the grant to the state."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "D", "raw": "D. The charge of involuntary manslaughter is legally sufficient because the manager's omissions were reckless and unlawful under the circumstances."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "A", "raw": "A. No crime."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "B", "raw": "The court would most likely **relieve the father of liability, because the father was never under a duty as a surety.**"}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "B", "raw": "B. The widow had not given the student requisite notice for terminating a periodic tenancy."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "D", "raw": "D. Yes, because the employer's claim shares common questions of law and fact with the clerk's action."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. No, because the insurance adjuster's statements did not cause the pedestrian any monetary loss."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. Yes, because it does not single out religious reasons for the denial of benefits and is a reasonable limitation on the award of such benefits."}
+{"model": "deepseek-v4-pro", "subject": "professional_law", "gold": "C", "raw": "C. The litigant ran a red light causing a car crash just before the judgment was rendered, and was in the hospital for two months recovering."}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Idols"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "B", "raw": "B. Yin-Yang School"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. 596 CE"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Akitu"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Ikebana"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "B. Devotion and piety"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Shabad"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Muhammad's miraculous ascent to heaven"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Laws of Manu"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "C", "raw": "C. The Recitation"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "B", "raw": "B. Father of Goodness"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Soto Zen"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "B", "raw": "B. Langar"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "B", "raw": "B. Daoism"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "B", "raw": "B. Submission"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. No-self"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "C", "raw": "C. Birth narratives"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "C", "raw": "C. Mahayana"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Digambara"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. The Shema"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Brahminic orthodoxy"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "C", "raw": "D. The Battle of Badr"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Remembering the Divine Name"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "None of the listed options. Japan imposed **State Shinto** (including shrine worship and emperor reverence) on Koreans during the occupation."}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Disciple"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. The sages of the Zhuangzi"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "A", "raw": "A. Anointed one"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Non-soul"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "C", "raw": "C. Seated meditation"}
+{"model": "deepseek-v4-pro", "subject": "world_religions", "gold": "D", "raw": "D. Sexual union"}
