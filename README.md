@@ -110,6 +110,8 @@ python repro/check_silent_zero.py your_results.json
 |---|---|
 | `one-pager.zh.md` | **the whole finding on one page** (Chinese): four readings, what was done, the public evidence, a 30-second spoken version |
 | `evidence/evidence.md` | raw readings: the endpoint comparison with wire-tapped request fields and usage counters, the 10-cell firing census **with negative controls**, the second-vendor probe, and the two harness-specific reproductions |
+| `evidence/mmlu_generative_responses.jsonl` | **600 real generative-MMLU responses** (2 models × 10 subjects × 30 items) with the gold letter — the corpus behind the extraction-pattern measurement in PR #4188 |
+| `repro/pattern_eval.py` | **extraction-pattern evaluation** on that corpus: first-line chain **0/600** vs `\b([A-D])\b` **486/600** vs the retracted case-insensitive variant **439/600** (49 correct→wrong, 2 wrong→correct), plus shape counts. `--fast` skips the slow column |
 | `repro/check_silent_zero.py` | apply the three-condition definition to a results file (no dependencies) |
 | `repro/check_harness_specifics.py` | lm-eval filter chain + OpenCompass post-processor, locally, no API calls |
 | `issues.md` | the four upstream reports + the shared framing paragraph |
